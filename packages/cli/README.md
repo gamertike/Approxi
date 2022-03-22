@@ -1,3 +1,3 @@
-# @approxi/cli
+# approxi-cli
 
 Coming soon...

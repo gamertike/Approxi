@@ -1,8 +1,10 @@
 {
-	"name": "@approxi/cli",
+	"name": "approxi-cli",
 	"description": "Create a approxi discord bot using a cli.",
 	"version": "1.0.0",
-	"bin": "./bin/index.js",
+	"bin": {
+		"approxi": "./bin/index.js"
+	},
 	"scripts": {
 		"build": "tsc"
 	},
