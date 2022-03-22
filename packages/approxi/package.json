@@ -1,7 +1,7 @@
 {
 	"name": "approxi",
 	"description": "A easy to use discord.js framework.",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"main": "./lib/index.js",
 	"types": "./typings/index.d.ts",
 	"scripts": {
