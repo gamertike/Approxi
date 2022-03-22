@@ -1,0 +1,31 @@
+{
+	"compilerOptions": {
+		// Type Checking
+		"allowUnreachableCode": false,
+		"allowUnusedLabels": false,
+		"exactOptionalPropertyTypes": false,
+		"noFallthroughCasesInSwitch": true,
+		"noImplicitOverride": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"strictBindCallApply": false,
+		"strict": true,
+
+		// Modules
+		"module": "CommonJS",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+
+		// Emit
+		"declaration": true,
+		"removeComments": false,
+		"sourceMap": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+
+		// Language and Environment
+		"lib": ["ESNext"],
+		"target": "ES2021"
+	}
+}

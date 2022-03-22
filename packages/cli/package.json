@@ -1,0 +1,32 @@
+{
+	"name": "@approxi/cli",
+	"description": "Create a approxi discord bot using a cli.",
+	"version": "1.0.0",
+	"bin": "./bin/index.js",
+	"scripts": {
+		"build": "tsc"
+	},
+	"files": [
+		"./bin"
+	],
+	"contributors": [
+		"Danielius Vaisnoras <dvaisnoras75@gmail.com>"
+	],
+	"keywords": [
+		"approxi",
+		"discord",
+		"discord.js",
+		"js",
+		"cli",
+		"interface"
+	],
+	"license": "Apache-2.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gamertike/Approxi.git"
+	},
+	"bugs": {
+		"url": "https://github.com/gamertike/Approxi/issues"
+	},
+	"homepage": "https://github.com/gamertike/Approxi#readme"
+}
