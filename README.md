@@ -2,6 +2,8 @@
 
 A easy to use [Discord.js](https://discord.js.org) framework.
 
+> **Not:** This package will no longer be updated.
+
 ## About
 
 Approxi is a powerful and easy to use [Discord.js](https://discord.js.org) framework that allows your code to be as minimal as possible.
